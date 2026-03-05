@@ -1,5 +1,6 @@
 invite drawing.
 
+create window canvas.
 make canvas dimensions 400 by 400.
 
 make canvas at 200 by 200 black.
