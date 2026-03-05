@@ -1,6 +1,6 @@
 invite drawing.
 
-create window canvas.
-make canvas dimensions 400 by 400.
+create window canvas. # creates a window, and names it in the program and also the window title canvas
+make canvas dimensions 400 by 400. # changes the window size, eventually implement a thing where you can type like pixel art type dimensions eg 16 by 16 but then say 16 by 16 scale 4 and then it scales it 4x
 
-make canvas at 200 by 200 black.
+make canvas at 200 by 200 black. # makes pixel at 200x 200 black
