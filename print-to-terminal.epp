@@ -1,5 +1,5 @@
 say "Hello, World".
 
-wait 1.
+wait 1. #Wait 1 second
 
 say "Goodbye, See you later!".
